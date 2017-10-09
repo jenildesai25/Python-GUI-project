@@ -12,7 +12,7 @@ int main(void){
         {
             printf(" ");
         }
-            for(int j = 0 ; j < n-2+k ; j++)
+            for(int j = 0 ; j < n-(n-2)+k ; j++)
             {
                 printf("#");
             }
